@@ -1,6 +1,6 @@
 👋 Hi, I’m Marc van Duyn @MDUYN, currently software engineer @Microsoft.
 ---
-
+Living in the netherlands.
 
 
 ![Marc's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=MDUYN&show_icons=true)
