@@ -6,7 +6,8 @@ I am a passionate about software engineering and contribute to various open-sour
 
 - 🐱 Pyhton, Java, JS, Node, azure cloud, kubernetes and web dev (front and backend) 
 - 💬 My Blog - https://mduyn.dev/blog/  
-- [investing algorithm framework](https://investing-algorithm-framework.com)
+- Contributor and maintaner of [investing algorithm framework](https://investing-algorithm-framework.com)
+- Founder of [eltyer](https://eltyer.com)
 
 ![Marc's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=MDUYN&show_icons=true)
 
