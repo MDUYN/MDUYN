@@ -1,4 +1,4 @@
-👋 ### Hi, I’m Marc van Duyn @MDUYN, currently software engineer @Microsoft.
+👋 Hi, I’m Marc van Duyn @MDUYN, currently software engineer @Microsoft.
 ---
 
 
