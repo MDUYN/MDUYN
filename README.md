@@ -6,6 +6,7 @@ I am passionate about software engineering and contribute to various open-source
 
 - 🐱 Pyhton, Java, JS, Node, azure cloud, kubernetes and web dev (front and backend) 
 - 💬 My Blog - https://mduyn.dev/blog/  
+- Ambassador for codingkitties
 - Contributor and maintainer of [investing algorithm framework](https://investing-algorithm-framework.com)
 - Founder of [eltyer](https://eltyer.com)
 
